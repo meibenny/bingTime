@@ -1,6 +1,6 @@
 """
     bingTimeGUI.py  Python GUI for Binghamton University Students to determine
-    different paths around the Binghamton University campus.
+    different paths, and travel time around the Binghamton University campus.
     
     Copyright (C) 2012  Joseph Grillo & Benny Mei
     This program is free software: you can redistribute it and/or modify
