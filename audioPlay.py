@@ -1,4 +1,4 @@
-***
+"""
     audioPlay.py  Python script to play .mp3 files in Windows.
     
     Copyright (C) 2012  Joseph Grillo & Benny Mei
@@ -15,7 +15,7 @@
     LICENSE: This is open-source software released under the terms of the
     GPL (http://www.gnu.org/licenses/gpl.html).
     
-***
+"""
 
 import winsound
 
